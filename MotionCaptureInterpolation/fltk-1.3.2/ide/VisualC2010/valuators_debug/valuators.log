@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/4/2 12:47:49。
+     1>项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\valuators.vcxproj”在节点 4 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\valuators_debug\valuators.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       CustomBuild:
+         Create .cxx and .h file with fluidd
+         Compiling fluid files ...
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I. /I..\..\zlib /I..\..\png /I..\..\jpeg /I../.. /Zi /nologo /W1 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D WIN32 /D _DEBUG /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D VC_EXTRA_LEAN /D WIN32_EXTRA_LEAN /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\valuators_debug\\" /Fd".\valuators_debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\test\valuators.cxx
+         valuators.cxx
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../../test/valuatorsd.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\lib fltkd.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcd /MANIFEST /ManifestFile:".\valuators_debug\valuatorsd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\valuators_debug\valuatorsd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\..\test\valuatorsd.lib" /MACHINE:X86 .\valuators_debug\valuators.obj
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkd.lib"
+         valuators.vcxproj -> E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\..\..\test\valuatorsd.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"../../test/valuatorsd.exe;#1" /manifest .\valuators_debug\valuatorsd.exe.intermediate.manifest
+       CopyFilesToOutputDirectory:
+         正在将文件从“.\valuators_debug\valuatorsd.pdb”复制到“..\..\test\valuatorsd.pdb”。
+       FinalizeBuildStatus:
+         正在删除文件“.\valuators_debug\valuators.unsuccessfulbuild”。
+         正在对“.\valuators_debug\valuators.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\valuators.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:25.44

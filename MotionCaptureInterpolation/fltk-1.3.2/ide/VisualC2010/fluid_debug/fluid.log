@@ -1,0 +1,65 @@
+﻿生成启动时间为 2015/4/2 12:47:23。
+     1>项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\fluid.vcxproj”在节点 3 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\fluid_debug\fluid.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I. /I..\..\zlib /I..\..\png /I..\..\jpeg /I../.. /Zi /nologo /W1 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D WIN32 /D _DEBUG /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D VC_EXTRA_LEAN /D WIN32_EXTRA_LEAN /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\fluid_debug\\" /Fd".\fluid_debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\fluid\about_panel.cxx ..\..\fluid\align_widget.cxx ..\..\fluid\alignment_panel.cxx ..\..\fluid\code.cxx ..\..\fluid\CodeEditor.cxx ..\..\fluid\factory.cxx ..\..\fluid\file.cxx ..\..\fluid\Fl_Function_Type.cxx ..\..\fluid\Fl_Group_Type.cxx ..\..\fluid\Fl_Menu_Type.cxx ..\..\fluid\Fl_Type.cxx ..\..\fluid\Fl_Widget_Type.cxx ..\..\fluid\Fl_Window_Type.cxx ..\..\fluid\fluid.cxx ..\..\fluid\Fluid_Image.cxx ..\..\fluid\function_panel.cxx ..\..\fluid\template_panel.cxx ..\..\fluid\undo.cxx ..\..\fluid\widget_panel.cxx
+         about_panel.cxx
+         align_widget.cxx
+         alignment_panel.cxx
+         code.cxx
+         CodeEditor.cxx
+         factory.cxx
+         file.cxx
+         Fl_Function_Type.cxx
+         Fl_Group_Type.cxx
+         Fl_Menu_Type.cxx
+         Fl_Type.cxx
+         Fl_Widget_Type.cxx
+         Fl_Window_Type.cxx
+         fluid.cxx
+         Fluid_Image.cxx
+         function_panel.cxx
+         template_panel.cxx
+         undo.cxx
+         widget_panel.cxx
+         正在生成代码...
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../../fluid/fluidd.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcmtd /MANIFEST /ManifestFile:".\fluid_debug\fluidd.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\fluid_debug\fluidd.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\..\fluid\fluidd.lib" /MACHINE:X86 .\fluid_debug\about_panel.obj
+         .\fluid_debug\align_widget.obj
+         .\fluid_debug\alignment_panel.obj
+         .\fluid_debug\code.obj
+         .\fluid_debug\CodeEditor.obj
+         .\fluid_debug\factory.obj
+         .\fluid_debug\file.obj
+         .\fluid_debug\Fl_Function_Type.obj
+         .\fluid_debug\Fl_Group_Type.obj
+         .\fluid_debug\Fl_Menu_Type.obj
+         .\fluid_debug\Fl_Type.obj
+         .\fluid_debug\Fl_Widget_Type.obj
+         .\fluid_debug\Fl_Window_Type.obj
+         .\fluid_debug\fluid.obj
+         .\fluid_debug\Fluid_Image.obj
+         .\fluid_debug\function_panel.obj
+         .\fluid_debug\template_panel.obj
+         .\fluid_debug\undo.obj
+         .\fluid_debug\widget_panel.obj
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkd.lib"
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkformsd.lib"
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkimagesd.lib"
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkjpegd.lib"
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkpngd.lib"
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkzlibd.lib"
+         fluid.vcxproj -> E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\..\..\fluid\fluidd.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"../../fluid/fluidd.exe;#1" /manifest .\fluid_debug\fluidd.exe.intermediate.manifest
+       CopyFilesToOutputDirectory:
+         正在将文件从“.\fluid_debug\fluidd.pdb”复制到“..\..\fluid\fluidd.pdb”。
+       FinalizeBuildStatus:
+         正在删除文件“.\fluid_debug\fluid.unsuccessfulbuild”。
+         正在对“.\fluid_debug\fluid.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\fluid.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:26.40

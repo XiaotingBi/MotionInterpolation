@@ -1,0 +1,40 @@
+﻿生成启动时间为 2015/3/7 14:42:20。
+     1>项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\csci520-assignment2-startercode\IDE-starter\VS2010\mocapPlayer\mocapPlayer.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Release\mocapPlayer.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Release\mocapPlayer.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "..\..\..\mocapPlayer-starter\displaySkeleton.cpp" "..\..\..\mocapPlayer-starter\interface.cpp" "..\..\..\mocapPlayer-starter\mocapPlayer.cpp" "..\..\..\mocapPlayer-starter\motion.cpp" "..\..\..\mocapPlayer-starter\performanceCounter.cpp" "..\..\..\mocapPlayer-starter\pic.cpp" "..\..\..\mocapPlayer-starter\posture.cpp" "..\..\..\mocapPlayer-starter\ppm.cpp" "..\..\..\mocapPlayer-starter\quaternion.cpp" "..\..\..\mocapPlayer-starter\skeleton.cpp" "..\..\..\mocapPlayer-starter\transform.cpp" "..\..\..\mocapPlayer-starter\vector.cpp"
+         displaySkeleton.cpp
+         interface.cpp
+         mocapPlayer.cpp
+         motion.cpp
+         performanceCounter.cpp
+         pic.cpp
+         posture.cpp
+         ppm.cpp
+         quaternion.cpp
+         skeleton.cpp
+         transform.cpp
+         vector.cpp
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\csci520-assignment2-startercode\IDE-starter\VS2010\Release\mocapPlayer.exe" /INCREMENTAL:NO /NOLOGO glu32.lib opengl32.lib comctl32.lib wsock32.lib fltk.lib fltkgl.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\mocapPlayer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\csci520-assignment2-startercode\IDE-starter\VS2010\Release\mocapPlayer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\csci520-assignment2-startercode\IDE-starter\VS2010\Release\mocapPlayer.lib" /MACHINE:X86 Release\displaySkeleton.obj
+         Release\interface.obj
+         Release\mocapPlayer.obj
+         Release\motion.obj
+         Release\performanceCounter.obj
+         Release\pic.obj
+         Release\posture.obj
+         Release\ppm.obj
+         Release\quaternion.obj
+         Release\skeleton.obj
+         Release\transform.obj
+         Release\vector.obj
+     1>LINK : fatal error LNK1181: 无法打开输入文件“fltk.lib”
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\Platforms\Win32\Microsoft.Cpp.Win32.Targets(268,5): error MSB6006: “link.exe”已退出，代码为 1181。
+     1>已完成生成项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\csci520-assignment2-startercode\IDE-starter\VS2010\mocapPlayer\mocapPlayer.vcxproj”(rebuild 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:10.05

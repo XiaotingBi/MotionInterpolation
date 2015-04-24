@@ -1,0 +1,23 @@
+﻿生成启动时间为 2015/4/2 12:46:23。
+     1>项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\button.vcxproj”在节点 4 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“.\button_debug\button.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I. /I..\..\zlib /I..\..\png /I..\..\jpeg /I../.. /Zi /nologo /W1 /WX- /Od /Oy- /D _CRT_SECURE_NO_DEPRECATE /D WIN32 /D _DEBUG /D _WINDOWS /D WIN32_LEAN_AND_MEAN /D VC_EXTRA_LEAN /D WIN32_EXTRA_LEAN /D _VC80_UPGRADE=0x0710 /Gm- /EHsc /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\button_debug\\" /Fd".\button_debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\test\button.cxx
+         button.cxx
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"../../test/buttond.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:..\..\lib fltkd.lib comctl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /NODEFAULTLIB:libcd /MANIFEST /ManifestFile:".\button_debug\buttond.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\button_debug\buttond.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"..\..\test\buttond.lib" /MACHINE:X86 .\button_debug\button.obj
+         "E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\lib\fltkd.lib"
+         button.vcxproj -> E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\..\..\test\buttond.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"../../test/buttond.exe;#1" /manifest .\button_debug\buttond.exe.intermediate.manifest
+       CopyFilesToOutputDirectory:
+         正在将文件从“.\button_debug\buttond.pdb”复制到“..\..\test\buttond.pdb”。
+       FinalizeBuildStatus:
+         正在删除文件“.\button_debug\button.unsuccessfulbuild”。
+         正在对“.\button_debug\button.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\学习\USC\Books\MyBooks\520 Computer Animation and Simulation_Homework\HW2\XiaotingBi_HW2\fltk-1.3.2\ide\VisualC2010\button.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.75
